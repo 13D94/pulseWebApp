@@ -1,0 +1,1 @@
+[12-Aug-2015 16:07:17 UTC] PHP Fatal error:  Call to undefined function display_error() in /home/nichromic/public_html/pulse/updateStats.php on line 4
